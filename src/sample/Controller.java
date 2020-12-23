@@ -19,8 +19,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Controller {
-    @FXML
-    private Button Anime;
+
 
     @FXML
     private Button Second;
